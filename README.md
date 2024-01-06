@@ -1,1 +1,1 @@
-Assignment 1 Answer for Question 4 for ANU Subject Algorithms
+Assignment 1 Answer for Question 4 of ANU Subject Algorithms
